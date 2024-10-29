@@ -1,11 +1,11 @@
-# PCUAE Installer
-## PCUAE Installer and now finished installing PCUAE.
+# PCUAE Installer Setup
+## PCUAE Installer Setup has now finished installing PCUAE...
 
-Look here for PCUAE Updates and info - https://thec64community.online/thread/1681/new-release-pcuae-v4-4
+Look here for PCUAE Updates and info: https://thec64community.online/thread/1681/new-release-pcuae-v4-4
 
-And look here for PCUAE Gudes
+And look here for PCUAE Gudes: https://github.com/CommodoreOS/PCUAE/blob/main/README.md#pcuae-quick-startup-guide
 
-PCUAE WEBSITE - https://projectcarouselusb.eu
+PCUAE WEBSITE: https://projectcarouselusb.eu
 
 ## In short PCUAE runs:
 
@@ -27,7 +27,7 @@ Thanks to vic2020ian on THEC64 Commmuity Forum for the discription - https://the
 
 ## 
 
-What Models does PCUAE run on:
+What Machine Models does PCUAE run on, Mini Machines or Full Size Machines(Maxi):
 ================================
 
 1. `THEC64 Mini`,
@@ -42,6 +42,6 @@ What Models does PCUAE run on:
 
 6. `THE400 Mini`
 
-and now... 7. `Atari Gamestation Pro`
+7. `Atari Gamestation Pro`
 
 Enjoy Spannernick.

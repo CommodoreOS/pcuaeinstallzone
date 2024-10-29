@@ -1,6 +1,8 @@
 # PCUAE Installer Setup
 ## PCUAE Installer Setup has now finished installing PCUAE...
 
+## More info on PCUAE
+
 Look here for PCUAE Updates and info: https://thec64community.online/thread/1681/new-release-pcuae-v4-4
 
 And look here for PCUAE Gudes: https://github.com/CommodoreOS/PCUAE/blob/main/README.md#pcuae-quick-startup-guide

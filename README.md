@@ -1,5 +1,5 @@
-# PCUAE Installer Setup
-## PCUAE Installer Setup has now finished installing PCUAE...
+# PCUAE Installer Setup has now compteted.
+## PCUAE Installer Setup has now finished installing PCUAE.
 
 ## More info on PCUAE
 

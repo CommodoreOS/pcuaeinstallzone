@@ -46,6 +46,8 @@ What Machine Models does PCUAE run on, Mini Machines or Full Size Machines(Maxi)
 
 7. `Atari Gamestation Pro`
 
+8. `The Spectrum`
+
 ## About the GPL-3.0 license
 
 This only covers PCUAE code not the emulators included, they are covered by there own license.

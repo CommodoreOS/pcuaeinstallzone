@@ -48,6 +48,8 @@ What Machine Models does PCUAE run on, Mini Machines or Full Size Machines(Maxi)
 
 8. `The Spectrum`
 
+9. `PS Classic - Coming soon`
+
 ## About the GPL-3.0 license
 
 This only covers PCUAE code not the emulators included, they are covered by there own license.

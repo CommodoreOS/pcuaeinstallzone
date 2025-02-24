@@ -9,7 +9,13 @@ And look here for PCUAE Guides: https://github.com/CommodoreOS/PCUAE/blob/main/R
 
 And look here for the Atari2600/7800 Plus PCUAE Install Guide: https://thec64community.online/thread/1658/pcuae-atari2600-plus-deeplay-loader
 
+How To Install PCUAE on the website: https://projectcarouselusb.eu/pcuae-how-to-page
+
+
+
 PCUAE WEBSITE: https://projectcarouselusb.eu
+
+
 
 ## In short PCUAE runs:
 

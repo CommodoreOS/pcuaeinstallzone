@@ -50,7 +50,9 @@ What Machine Models does PCUAE run on, Mini Machines or Full Size Machines(Maxi)
 
 9. `PS Classic`
 
-10. `Atari7800 Plus` Comming Soon.
+10. `Atari7800 Plus` Comming Soon
+
+11. `Sega Mega Drive 2 Mini` Comming Soon.
 
 
 ## About the GPL-3.0 license

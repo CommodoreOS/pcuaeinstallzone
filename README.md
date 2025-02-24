@@ -7,7 +7,7 @@ Look here for PCUAE Updates and info: https://thec64community.online/thread/1681
 
 And look here for PCUAE Guides: https://github.com/CommodoreOS/PCUAE/blob/main/README.md#pcuae-quick-startup-guide
 
-The Atari2600.7800 Plus PCUAE Install Guide: https://thec64community.online/thread/1658/pcuae-atari2600-plus-deeplay-loader
+And look here for the Atari2600/7800 Plus PCUAE Install Guide: https://thec64community.online/thread/1658/pcuae-atari2600-plus-deeplay-loader
 
 PCUAE WEBSITE: https://projectcarouselusb.eu
 

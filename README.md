@@ -48,7 +48,10 @@ What Machine Models does PCUAE run on, Mini Machines or Full Size Machines(Maxi)
 
 8. `The Spectrum`
 
-9. `PS Classic - Coming soon`
+9. `PS Classic`
+
+10. `Atari7800 Plus` Comming Soon.
+
 
 ## About the GPL-3.0 license
 

@@ -1,7 +1,7 @@
 # PCUAE Installer Setup has now completed.
 ## PCUAE Installer Setup has now finished installing PCUAE.
 
-## IF you have installed `PCUAE CBM Machine Edition`, then make sure you export `Favories  1` to the PCUAE USB Drive in PCUAE Manager so PCUAE Mode loads the Favorite 1 Carousel Gamelist screen, otherwise it will load the gameslist from the firmware instead.
+## IF you have installed `PCUAE CBM Machine Edition`, then make sure you export `Favorite 1` to the `PCUAE USB Drive` in `PCUAE Manager` so `PCUAE Mode` loads the `Favorite 1 Carousel Gamelist screen`, otherwise it will load the gamelist from the firmware instead.
 
 ## More info on PCUAE
 

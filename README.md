@@ -1,6 +1,8 @@
 # PCUAE Installer Setup has now completed.
 ## PCUAE Installer Setup has now finished installing PCUAE.
 
+## IF you have installed `PCUAE CBM Machine Edition`, then make sure you export `Favories  1` to the PCUAE USB Drive in PCUAE Manager so PCUAE Mode loads the Favorite 1 Carousel Gamelist screen, otherwise it will load the gameslist from the firmware instead.
+
 ## More info on PCUAE
 
 Look here for PCUAE Updates and info: https://thec64community.online/thread/1681/new-release-pcuae-v4-4
